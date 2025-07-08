@@ -74,7 +74,7 @@
 
 ### Prerequisites
 - Python 3.8+
-- Node.js 16+
+- Node.js 20+
 - Docker & Docker Compose
 - Solana CLI tools
 - Solana RPC provider (Helius, QuickNode, etc.)
